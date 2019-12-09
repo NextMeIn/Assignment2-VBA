@@ -6,4 +6,5 @@ This project has the goal to put in practice my VBA skills. For this reason, I g
 
 ## Result
 ### Macro calculate_Vol_easy
-`It will loop through one year of stock data for each run and return the total volume each stock (Column J) had over that year.`
+
+    enter code here
